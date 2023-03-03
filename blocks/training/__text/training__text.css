@@ -1,0 +1,9 @@
+.training__text {
+    max-width: 507px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.03em;
+}

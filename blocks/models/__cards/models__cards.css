@@ -1,0 +1,6 @@
+.models__cards {
+    display: grid;
+    gap: 80px;
+    grid-template-rows: auto;
+    grid-template-columns: auto;
+}

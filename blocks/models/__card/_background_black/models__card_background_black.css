@@ -1,0 +1,6 @@
+.models__card_background_black {
+    background: url(../../../../images/model-black.png);
+    border: 1px solid #FFFFFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

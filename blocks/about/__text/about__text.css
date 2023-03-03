@@ -1,0 +1,10 @@
+.about__text {
+    margin: 0 auto;
+    max-width: 430px;
+    min-height: 103px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.03em;
+}

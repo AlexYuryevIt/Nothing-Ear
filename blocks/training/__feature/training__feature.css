@@ -1,0 +1,7 @@
+.training__feature {
+    margin: 0 auto 80px;
+}
+
+.training__feature:last-child {
+    margin: 0 auto;
+}

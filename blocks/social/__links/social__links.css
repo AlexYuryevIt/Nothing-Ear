@@ -1,0 +1,9 @@
+.social__links {
+    margin: 60px auto 0;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 210px);
+    grid-template-rows: auto;
+    justify-content: center;
+    gap: 30px;
+}

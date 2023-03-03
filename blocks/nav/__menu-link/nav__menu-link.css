@@ -1,0 +1,9 @@
+.nav__menu-link {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+}

@@ -1,0 +1,10 @@
+.microphone__text {
+    margin: 0 auto 60px;
+    max-width: 942px;
+   
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 90%;
+    text-align: center;
+    letter-spacing: -0.06em;
+    }

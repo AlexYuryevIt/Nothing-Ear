@@ -1,0 +1,14 @@
+.social__link {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73.52%;
+    text-align: center;
+    letter-spacing: -0.06em;
+    text-decoration: none;
+    color: #fff;
+    transition: .5s;
+}
+
+.social__link:hover {
+    opacity: 0.5;
+}

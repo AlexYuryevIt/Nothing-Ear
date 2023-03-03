@@ -1,0 +1,22 @@
+.microphone__link {
+    margin: 0 auto;
+    max-width: 866px;
+    height: 110px;
+    display: block;
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+    text-decoration: none;
+
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 110px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transition: 1s ease-out;
+}
+
+.microphone__link:hover {
+    transform: scale(1.1);
+}

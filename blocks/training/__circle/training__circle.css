@@ -1,0 +1,10 @@
+.training__circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 20px;
+    width: 54px;
+    height: 54px;
+    background: #FF25C2;
+    border-radius: 50px;
+}

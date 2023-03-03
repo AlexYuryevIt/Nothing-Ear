@@ -1,0 +1,12 @@
+.models__card {
+    margin: 0 auto;
+    width: 100%;
+    height: 644px;
+    background-image: 
+        linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, 
+        rgba(0, 0, 0, 0) 100%),
+        url(../../../images/model-white.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 30px;
+}

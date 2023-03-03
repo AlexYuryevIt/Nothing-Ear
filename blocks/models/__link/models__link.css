@@ -1,0 +1,22 @@
+.models__link {
+    width: 100%;
+    height: 110px;
+    display: block;
+
+    border: 1px solid #FFFFFF;
+    border-radius: 100px;
+
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 110px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    transition: 1s ease-out;
+}
+
+.models__link:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,9 @@
+.footer__text {
+    margin: 48px auto 52px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: #FF25C2;
+}

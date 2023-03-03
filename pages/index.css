@@ -1,0 +1,53 @@
+@import url(../vendor/reset.css);
+@import url(../vendor/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/nav/nav.css);
+@import url(../blocks/nav/__menu/nav__menu.css);
+@import url(../blocks/nav/__menu-item/nav__menu-item.css);
+@import url(../blocks/nav/__menu-link/nav__menu-link.css);
+
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__heading/about__heading.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__img/about__img.css);
+
+@import url(../blocks/models/models.css);
+@import url(../blocks/models/__cards/models__cards.css);
+@import url(../blocks/models/__card/models__card.css);
+@import url(../blocks/models/__item/models__item.css);
+@import url(../blocks/models/__card/_background_black/models__card_background_black.css);
+@import url(../blocks/models/__text/models__text.css);
+@import url(../blocks/models/__img/models__img.css);
+@import url(../blocks/models/__link/models__link.css);
+
+@import url(../blocks/functions/functions.css);
+@import url(../blocks/functions/__wrapper/functions__wrapper.css);
+@import url(../blocks/functions/__heading/functions__heading.css);
+@import url(../blocks/functions/__text/functions__text.css);
+
+@import url(../blocks/training/training.css);
+@import url(../blocks/training/__heading/training__heading.css);
+@import url(../blocks/training/__features/training__features.css);
+@import url(../blocks/training/__feature/training__feature.css);
+@import url(../blocks/training/__circle/training__circle.css);
+@import url(../blocks/training/__text/training__text.css);
+
+@import url(../blocks/microphone/microphone.css);
+@import url(../blocks/microphone/__description/microphone__description.css);
+@import url(../blocks/microphone/__heading/microphone__heading.css);
+@import url(../blocks/microphone/__text/microphone__text.css);
+@import url(../blocks/microphone/__link/microphone__link.css);
+
+@import url(../blocks/social/social.css);
+@import url(../blocks/social/__heading/social__heading.css);
+@import url(../blocks/social/__illustration/social__illustration.css);
+@import url(../blocks/social/__img/social__img.css);
+@import url(../blocks/social/__text/social__text.css);
+@import url(../blocks/social/__links/social__links.css);
+@import url(../blocks/social/__item/social__item.css);
+@import url(../blocks/social/__link/social__link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
